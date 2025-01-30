@@ -28,5 +28,15 @@ git push origin main
 
 12) git checkout -b branch_name : Creates a branch and changes into that branch
 
+13) git branch -r "branch_name" : Used to remove branch
+
+14) git remote update : Used to refresh branches
+
+15) git stash : Used to cancel changes
+
+16) git reset : Used to reset changes
+
+17) git merge : used to merge conflicts 
+
 
 
