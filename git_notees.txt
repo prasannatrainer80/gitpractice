@@ -1,0 +1,7 @@
+1) Working Dir
+
+2) Staging Area
+
+3) Local Repo
+
+4) Remote Repo
