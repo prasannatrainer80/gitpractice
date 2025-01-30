@@ -2,6 +2,16 @@
 
 2) Staging Area
 
+git add .
+
 3) Local Repo
 
+git commit -m "My First Commit"
+
 4) Remote Repo
+
+git push origin main
+
+5) git log 
+
+6) git status
